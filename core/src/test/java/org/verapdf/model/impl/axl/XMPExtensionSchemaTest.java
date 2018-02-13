@@ -20,8 +20,8 @@
  */
 package org.verapdf.model.impl.axl;
 
-import com.adobe.xmp.XMPException;
-import com.adobe.xmp.impl.VeraPDFMeta;
+import org.verapdf.com.adobe.xmp.XMPException;
+import org.verapdf.com.adobe.xmp.impl.VeraPDFMeta;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;

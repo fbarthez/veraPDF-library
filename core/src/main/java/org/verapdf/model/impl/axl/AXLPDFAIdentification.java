@@ -25,10 +25,10 @@ import java.util.logging.Logger;
 
 import org.verapdf.model.xmplayer.PDFAIdentification;
 
-import com.adobe.xmp.XMPConst;
-import com.adobe.xmp.XMPException;
-import com.adobe.xmp.impl.VeraPDFMeta;
-import com.adobe.xmp.impl.VeraPDFXMPNode;
+import org.verapdf.com.adobe.xmp.XMPConst;
+import org.verapdf.com.adobe.xmp.XMPException;
+import org.verapdf.com.adobe.xmp.impl.VeraPDFMeta;
+import org.verapdf.com.adobe.xmp.impl.VeraPDFXMPNode;
 
 /**
  * @author Maksim Bezrukov

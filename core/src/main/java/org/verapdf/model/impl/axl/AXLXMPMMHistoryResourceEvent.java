@@ -20,8 +20,8 @@
  */
 package org.verapdf.model.impl.axl;
 
-import com.adobe.xmp.XMPConst;
-import com.adobe.xmp.impl.VeraPDFXMPNode;
+import org.verapdf.com.adobe.xmp.XMPConst;
+import org.verapdf.com.adobe.xmp.impl.VeraPDFXMPNode;
 import org.verapdf.model.xmplayer.XMPMMHistoryResourceEvent;
 
 /**

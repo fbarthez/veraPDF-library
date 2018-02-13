@@ -20,8 +20,8 @@
  */
 package org.verapdf.model.impl.axl;
 
-import com.adobe.xmp.impl.VeraPDFXMPNode;
-import com.adobe.xmp.options.PropertyOptions;
+import org.verapdf.com.adobe.xmp.impl.VeraPDFXMPNode;
+import org.verapdf.com.adobe.xmp.options.PropertyOptions;
 import org.verapdf.model.baselayer.Object;
 import org.verapdf.model.tools.xmp.ValidatorsContainer;
 import org.verapdf.model.xmplayer.ExtensionSchemasContainer;

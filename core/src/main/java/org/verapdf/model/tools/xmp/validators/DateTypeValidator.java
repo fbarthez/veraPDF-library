@@ -20,9 +20,9 @@
  */
 package org.verapdf.model.tools.xmp.validators;
 
-import com.adobe.xmp.XMPDateTimeFactory;
-import com.adobe.xmp.XMPException;
-import com.adobe.xmp.impl.VeraPDFXMPNode;
+import org.verapdf.com.adobe.xmp.XMPDateTimeFactory;
+import org.verapdf.com.adobe.xmp.XMPException;
+import org.verapdf.com.adobe.xmp.impl.VeraPDFXMPNode;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

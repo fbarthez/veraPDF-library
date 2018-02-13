@@ -25,7 +25,7 @@ import java.net.URL;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import com.adobe.xmp.impl.VeraPDFXMPNode;
+import org.verapdf.com.adobe.xmp.impl.VeraPDFXMPNode;
 
 /**
  * @author Maksim Bezrukov
