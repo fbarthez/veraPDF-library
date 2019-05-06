@@ -28,7 +28,7 @@
   <parent>
     <artifactId>verapdf-library</artifactId>
     <groupId>org.verapdf</groupId>
-    <version>1.10.3</version>
+    <version>1.10.3-HTG</version>
   </parent>
 
   <artifactId>core</artifactId>
